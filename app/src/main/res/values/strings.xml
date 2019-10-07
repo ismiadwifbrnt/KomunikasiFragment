@@ -1,6 +1,25 @@
 <resources>
-	<string name="app_name">Ideal Body Weight</string>
+    <string name="app_name">Ideal Body Weight</string>
 
-	<!-- TODO: Remove or change this placeholder text -->
-	<string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello">The program is created by</string>
+    <string name="txt_nama">Your name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello1">Broca Index</string>
+    <string name="button1">BROCA INDEX</string>
+    <string name="button2">BODY MASS INDEX</string>
+    <string name="view1">Gender</string>
+    <string name="view2">Height</string>
+    <string name="rbutton1">Male</string>
+    <string name="rbutton2">Female</string>
+    <string name="rbutton3">CALCULATE</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello2">Add your information here</string>
+    <string name="rbutton4">Try Again</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="view3">Weight</string>
+    <string name="hello3">Body Mass Index</string>
 </resources>
